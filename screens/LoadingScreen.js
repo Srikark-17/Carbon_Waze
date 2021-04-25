@@ -10,7 +10,7 @@ const LoadingScreen = () => {
   return (
     <View style={loadingStyles.container}>
       <Image
-        source={require("../assets/logo.jpeg")}
+        source={require("../assets/logo.png")}
         style={loadingStyles.logo}
       />
       <StatusBar style="light" />
