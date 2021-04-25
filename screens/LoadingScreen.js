@@ -29,6 +29,6 @@ const loadingStyles = StyleSheet.create({
   },
   logo: {
     width: wp(80),
-    height: hp(30),
+    height: hp(15),
   },
 });
